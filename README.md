@@ -63,6 +63,7 @@ pip install -r requirements.txt
 ## Configuration
 
 Create a `.env` file with: ```env
+
 GEMINI_API_KEY=your_api_key_here
 
 ## Project Structure
